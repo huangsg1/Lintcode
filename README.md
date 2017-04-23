@@ -1,2 +1,2 @@
 # Lintcode
-## Sorcecode by Python
+## Source code by Python
